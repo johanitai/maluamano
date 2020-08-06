@@ -180,7 +180,7 @@ bottom: 10px;
 .footer {
   background: #5a5a5a;
   display: flex;
-  align-items: end;
+  align-items: center;
   justify-content: center;
   height: 100px;
   padding: 0px 50px;
@@ -204,6 +204,8 @@ bottom: 10px;
 .footer .fa-heart {
   color: white;
 }
+.footer-copyright {
+  color: white;}
 
 }
 
@@ -213,7 +215,6 @@ bottom: 10px;
 		flex-direction: row;
 		align-items: center;
 		justify-content: space-around;
-		
 	}
 }
 }
