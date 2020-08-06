@@ -211,8 +211,8 @@ bottom: 10px;
 	.footer {
 		display-flex
 		flex-direction: row;
-		align-items: center;
-		justify-content: end;
+		align-items: end;
+		
 	}
 }
 }
